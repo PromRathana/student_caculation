@@ -29,6 +29,14 @@ h1 {
   color: #ffffff;
   font-size: 2.2rem;
 }
+h3 {
+  font-family: "Content", system-ui;
+  font-weight: bolder;
+  font-style: normal;
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.2rem;
+}
 
 #subjects div {
   margin: 10px 0;
@@ -106,6 +114,18 @@ button:hover {
   margin-left: 10px;
   padding: 4px 4px;
   font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+  text-align: center;
+  border-radius: 10px;
+  border-color: red;
+  border-style: double solid;
+  font-weight: bold;
+}
+.btn_select {
+  color: red;
+  margin-left: 10px;
+  padding: 4px 4px;
+  font-family: "Content", system-ui;
   font-size: 1.2rem;
   text-align: center;
   border-radius: 10px;
