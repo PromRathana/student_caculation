@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Content:wght@400;700&family=Koulen&family=Moul&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 body {
   font-family: Arial, sans-serif;
-  background-image: url(/img/Blue\ and\ White\ Gradient\ Background\ Zoom\ Virtual\ Background.png);
+  background-image: url(Blue\ and\ White\ Gradient\ Background\ Zoom\ Virtual\ Background.png);
   background-size: cover; /* Ensure the image covers the entire screen */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent the image from repeating */
