@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Score Calculator</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>កម្មវិធីគណនាចំណាត់ថ្នាក់</h1>
+      <form id="scoreForm" class="form">
+        <div id="subjects" class="subjects">
+          <!-- Dynamic Subject Fields -->
+        </div>
+        <button type="button" id="calculateBtn" class="btn">គណនា</button>
+        <button type="button" id="clearBtn" class="btn-clear">
+          សម្អាតតារាង
+        </button>
+      </form>
+      <div class="results">
+        <h2>លទ្ធផល ៖</h2>
+        <p>ពិន្ទុសរុប ៖ <span id="totalScore">0</span></p>
+        <p>មធ្យមភាគ ៖ <span id="average">0</span></p>
+        <p>និទ្ទេស ៖ <span id="grade">N/A</span></p>
+      </div>
+    </div>
+    <script src="/js/script.js"></script>
+  </body>
+</html>
