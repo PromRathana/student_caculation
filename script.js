@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const subjectNames = [
     "សរសេរតាមអាន",
     "តែងសេចក្តី",
-    "គណីតវិទ្យា",
+    "គណិតវិទ្យា",
     "រូបវិទ្យា",
     "គីមីវិទ្យា",
     "ភូមិវិទ្យា",
